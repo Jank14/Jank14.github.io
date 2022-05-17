@@ -19,6 +19,7 @@ weight: 7
 <li> Conducted Introductory Session on jobs in ML and how I got in as Machine Learning Engineer through LILA Poonawalla Foundation. </li>  
 <li> Organised Mentorship program through PCCOE ACM-W so as to guide students about curriculum as well as career and scholarship opportunities </li> 
 <li> Organised First Event of PCCOE - ACMW engima for Women and Allies for learning and development for 2 days.
+<li> Selected and attended ACM Summer School from whole India for cybersecurity Summer school </li>
 </ul><br>
 
 ### Competitions <br>
