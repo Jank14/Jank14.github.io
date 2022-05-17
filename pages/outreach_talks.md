@@ -8,29 +8,31 @@ weight: 7
 
 ### Entrepreneurship <br>
 <ul>
-<li>Jagriti Yatra (2019-2020) <ul>
-    <li> An exciting journey around 12 different places in India, connecting with 450 people from different parts of world. Meeting people who are doing exceptionally well in the fields of social welfare, Sustainable Product development, Technology, Rural development etc. </li> </ul> </li>
+<li>PCCOE ACM-W(2019-Present) <ul>
+    <li> Founder and President of PCCOE ACM Women's chapter. A club by Women in STEM open for generic audience trying to provide support and opportunities to under represented sections of STEM. We were the first ACM-W chapter who organised events for Women and Allies headed by Women. The ACM chapter works along side PCCOE's other chapters to organize inter college events and opportunities. </li> </ul> </li>
 </ul> <br>
 
 
 ### Talks (Speaker/Presentations/Workshops) <br>
 <ul>
-<li> Took a Session on Neuroscience and Artificial Intelligence in a GDG Meetup.  </li>
-<li> Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
-Literacy Program. </li>  
-<li> Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC. </li> 
+<li> Worked as Google AI Explorer Instructor, teaching ML at 3 levels to college students through various sessions for a semester </li>
+<li> Conducted Introductory Session on jobs in ML and how I got in as Machine Learning Engineer through LILA Poonawalla Foundation. </li>  
+<li> Organised Mentorship program through PCCOE ACM-W so as to guide students about curriculum as well as career and scholarship opportunities </li> 
+<li> Organised First Event of PCCOE - ACMW engima for Women and Allies for learning and development for 2 days.
 </ul><br>
 
 ### Competitions <br>
 <ul>
-<li> Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech. </li> 
-<li> Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India.  </li> 
+<li> Winner of Water Olympiad - University Level Project competition for Underwater Autonmous Vehicle for underwater plastic detection project </li> 
+<li> Semi finalist of Avishkar - State Level Project competition for Underwater Autonmous Vehicle for underwater plastic detection project </li> 
+<li> Semi finalist of TCS codevita  </li> 
+<li> Semi finalist of Lady Ada competition  </li> 
 </ul><br>
  
 
-### Seminars/Talks <br>
+### Scholarships <br>
 <ul>
-<li> Participated in Short-term programme on Research Methodology in Science, Energy and Management. </li> 
-<li> Participated in a full day session on Startup and IPR Awareness Program.  </li>
-<li> Participated in a seminar on Innovations in Space Technology. </li> 
+<li> GHCI scholarship recipient </li>
+<li> Funded my Engineering through LPF scholarship of 60k per year </li> 
+<li> Funded my Engineering through LPF scholarship of 40k per year  </li>
 </ul> 
