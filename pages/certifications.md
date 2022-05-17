@@ -9,11 +9,11 @@ weight: 4
 <ul>
     
 <li>
-GAMMA : Generative Augmentation for Attentive Marine Debris Detection
-VAishnavi Khindkar, Janhavi Khindkar
-Under Review
+GAMMA : Generative Augmentation for Attentive Marine Debris Detection <br>
+VAishnavi Khindkar, Janhavi Khindkar <br>
+Under Review<br>
 We propose an efficient and generative augmentation approach to solve the inadequacy concern of underwater debris data for visual detection. We use cycleGAN as a data augmentation technique to convert openly available, abundant data of terrestrial plastic to underwater-style images. Prior works just focus on augmenting or enhancing existing data, which moreover adds bias to the dataset. Compared to our technique, which devises variation, transforming additional in-air plastic data to the marine background.
-</li>
+</li><br>
 <li> 
 An efficient and scalable architecture for underwater plastic detection and cleaning using Underwater Autonomous Vehicle (AUV) and CycleGans as Data Augmentation technique to convert in air plastic to underwater style.
 Vaishnavi Khindkar, Janhavi Khindkar
