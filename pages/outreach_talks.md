@@ -30,8 +30,9 @@ weight: 7
 </ul><br>
  
 
-### Scholarships <br>
+### Scholarships & Awards <br>
 <ul>
+<li> Won Think Tank and Innovation award for work in AWS R&D
 <li> GHCI scholarship recipient </li>
 <li> Funded my Engineering through LPF scholarship of 60k per year </li> 
 <li> Funded my Engineering through LPF scholarship of 40k per year  </li>
