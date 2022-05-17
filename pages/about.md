@@ -10,7 +10,7 @@ weight: 6
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I currently work as a Machine learning engineer at Quantiphi Analytics. Most of my work is related to Machine learning, Deep learning, NLP, Quantum Computing, Reinforcement learning. <br>
 
-Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/jank_resume.pdf) :smiley: <br>
+Want to know more about me or hire me then download resume [here](https://github.com/dummy3014/dummy3014.github.io/blob/main/assests/jank_resume.pdf) :smiley: <br>
 
 
 # **Publications**
