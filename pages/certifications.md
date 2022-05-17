@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Certifications
+title: Publications & Certifications
 permalink: /certifications/
 weight: 4
 ---
