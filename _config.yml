@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Janhavi Khindkar
 description         : >- 
-                      I turn tea :tea: into code,     
+                      Machine Learning Engineer at Quantiphi     
                       Want to discuss ?? Always up for Computer Vision, Artificial Intelligence, Quantum Physics, Mathematics & Life!!! 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : dummy3014/dummy3014.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -28,7 +28,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Janhavi Khindkar
-  image             : ./assets/jank.png
+  image             : dummy3014/dummy3014.github.io/blob/main/assests/jank.png
 # behance           : your_username
 # dribbble          : your_username
   email             : jkhindkar14@gmail.com  
