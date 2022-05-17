@@ -30,7 +30,7 @@ weight: 2
 <ul>
 <li>  Introduction to Reinforcement Learning with David Silver </li>
 <li>  Feynman Lectures on physics (Book 3)
-<li>  Image Segmentation: Advanced Techniques - ThinkAutonomous.ai </li>
+</li>
 </ul>
 <br>
 
