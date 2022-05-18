@@ -1,7 +1,7 @@
 ---
-name: RIGGU V2 - The semi humanoid robot
-tools: [ros, deep learning, compute vision, robotics,machine learning, opencv, hardware, jetson]
-image: [https://github.com/dummy3014/dummy3014.github.io/blob/main/cycleganimg1.jpeg]
-description: Complete framework for the development of an Interactive Semi-Humanoid Robot using technologieslike AI,NLP,ROS,SLAM.
-external_url: https://youtu.be/rJtpveWpm8U
+name: PlaceHolder Project
+tools: [nothing, important]
+image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+external_url: https://www.google.com
 ---
