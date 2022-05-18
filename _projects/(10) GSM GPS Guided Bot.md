@@ -1,7 +1,7 @@
 ---
-name:  GSM - GPS Guided Bot
-tools: [Arduino,gsm, gps, serial_comm]
+name:  CycleGans for Underwater Plastic Detection and cleaning
+tools: [GAN, Style Transfer, Object Detection, Augmentation]
 image: 
-description: A four wheel mobile robot which can move from one specified location to another with the help of GPS and GSM modules.
-external_url: 
+description: An efficient and scalable architecture for underwater plastic detection and cleaning using Underwater Autonomous Vehicle (AUV) and CycleGans as Data Augmentation technique to convert in air plastic to underwater style.
+external_url: https://www.youtube.com/watch?v=s4NxtjgqLME
 ---
