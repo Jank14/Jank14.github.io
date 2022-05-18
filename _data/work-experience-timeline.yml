@@ -1,16 +1,15 @@
 - title: Machine Learning Engineer, Quantiphi Inc
   from: July 2020
   to: Present
-  description: Provide ML and AI solutions to client and working on in-house research projects
-  responsibilities: 
-                    Designed and developed anomaly detection system to detect anomalous user behaviour leading to 60% reduction in manual effort
-                    Developed background replacement segmentation model with shadow for showroom leading to 30% improvement in user engagement. • Developed End to End algorithm for fracture bones alignment and reconstruction, leading to 60% of automation in the process
-                    Predicted credit default risk on imbalanced data with almost 12% improvement over client’s in-house model.
-                    Built feature-store using AWS for client demo.  
-                    Developed responsive Hotel-Booking chatbot with payment using GPT3 with 10% improvement in user engagement.
-  Key Achievements:
-                    • Won Think Tank Award and Innovation Award R&D work.
-                    • Mentored organization on new ML services & products launched in AWS Reinvent 2020.
+  description: Provide ML and AI solutions to client and working on in-house research projects 
+               Designed and developed anomaly detection system to detect anomalous user behaviour leading to 60% reduction in manual effort
+               Developed background replacement segmentation model with shadow for showroom leading to 30% improvement in user engagement. 
+               Developed End to End algorithm for fracture bones alignment and reconstruction, leading to 60% of automation in the process
+               Predicted credit default risk on imbalanced data with almost 12% improvement over client’s in-house model.
+               Built feature-store using AWS for client demo.  
+               Developed responsive Hotel-Booking chatbot with payment using GPT3 with 10% improvement in user engagement.
+               Won Think Tank Award and Innovation Award R&D work.
+               Mentored organization on new ML services & products launched in AWS Reinvent 2020.
 - title: Machine Learning Intern, Persistent, Pune
   from: Jun 2019
   to: May 2020
