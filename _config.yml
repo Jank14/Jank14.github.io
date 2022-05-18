@@ -79,16 +79,7 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: true                                  # Set to true to enable disqus comments
-  - scope:
-      path: ""
-      type: "skills"
-    values:
-      comments: false 
+ 
 
 ### Exclude from processing ###
 exclude:
