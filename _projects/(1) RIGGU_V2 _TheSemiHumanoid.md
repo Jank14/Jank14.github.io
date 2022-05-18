@@ -1,7 +1,7 @@
 ---
 name: RIGGU V2 - The semi humanoid robot
 tools: [ros, deep learning, compute vision, robotics,machine learning, opencv, hardware, jetson]
-image:
+image:https://github.com/dummy3014/dummy3014.github.io/blob/main/jank.png
 description: Complete framework for the development of an Interactive Semi-Humanoid Robot using technologieslike AI,NLP,ROS,SLAM.
 external_url: https://youtu.be/rJtpveWpm8U
 ---
