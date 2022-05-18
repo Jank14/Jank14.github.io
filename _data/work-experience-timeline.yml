@@ -1,7 +1,7 @@
 - title: Machine Learning Engineer, Quantiphi Inc
   from: July 2020
   to: Present
-  description: <ul>Provide ML and AI solutions to client and working on in-house research projects 
+  description: <ul><li>Provide ML and AI solutions to client and working on in-house research projects </li>
                <li>Designed and developed anomaly detection system to detect anomalous user behaviour leading to 60% reduction in manual effort</li>
                <li>Developed background replacement segmentation model with shadow for showroom leading to 30% improvement in user engagement. </li>
                <li>Developed End to End algorithm for fracture bones alignment and reconstruction, leading to 60% of automation in the process</li>
@@ -13,21 +13,18 @@
 - title: Machine Learning Intern, Persistent, Pune
   from: Jun 2019
   to: May 2020
-  description: Worked as a project Intern for a year developing and patenting work on AUV for underwater plastic detection and cleaning
-  Responsibilities: 
-                    • Designed and Developed an Autonomous Underwater Vehicle capable of detecting and collecting underwater plastic.
-                    • Developed object detection model with image augmentation for underwater plastic leading to 8% improvement in mAP.
-  KeyAchievements:
-                    • Filed a patent of the proposed Autonomous Underwater Vehicle for collecting underwater plastic 
-                    • Won Water Olympiad (University Level Project Competition) for the idea.
+  description: <ul><li>Worked as a project Intern for a year developing and patenting work on AUV for underwater plastic detection and cleaning</li>
+                    <li>Designed and Developed an Autonomous Underwater Vehicle capable of detecting and collecting underwater plastic.</li>
+                    <li>Developed object detection model with image augmentation for underwater plastic leading to 8% improvement in mAP.</li></ul>
+                    <li>Filed a patent of the proposed Autonomous Underwater Vehicle for collecting underwater plastic </li>
+                    <li>Won Water Olympiad (University Level Project Competition) for the idea.</li></ul>
 
 - title: HackersDigital
   from: April 2019
   to: May 2020
-  description: Worked as Security Engineer.
-  Responsiblities: 
-                    •Built and automated installation of VM’s on client’s ESXI servers. 
-                    •Built loan collection application for client along with dashboard.
+  description: <ul><li>Worked as Security Engineer.</li>
+               <li>Built and automated installation of VM’s on client’s ESXI servers.</li> 
+               <li>Built loan collection application for client along with dashboard.</li></ul>
 
 
 
