@@ -4,8 +4,8 @@ description         : >-
                       Machine Learning Engineer at Quantiphi     
                       Want to discuss ?? Always up for Computer Vision, Artificial Intelligence, Quantum Physics, Mathematics & Life!!! 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : dummy3014/dummy3014.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : dummy3014/portfolYOU
+repository          : Jank14/Jank14.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : Jank14/portfolYOU
 
 
 ### Plugins ###
