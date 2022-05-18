@@ -1,7 +1,7 @@
 ---
-name: CycleGans for Underwater Plastic Detection and cleaning
-tools: [GANS, Object Detection, Underwater Detection, Dataset Creation]
-image: 
-description:An efficient and scalable architecture for underwater plastic detection and cleaning using Underwater Autonomous Vehicle (AUV) and CycleGans as Data Augmentation technique to convert in air plastic to underwater style.
-external_url: https://www.youtube.com/watch?v=s4NxtjgqLME
+name: PlaceHolder Project
+tools: [nothing, important]
+image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+external_url: https://www.google.com
 ---
