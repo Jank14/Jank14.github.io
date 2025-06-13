@@ -1,6 +1,12 @@
+- title: Applied AI Researcher at Bhashini Engineering Unit @ Product Labs IIITH
+  from: Dec 2023
+  to: Present 
+  description: <ul><li>Spearheaded the development of a cutting-edge, low-latency real-time speech-to-speech pipeline with an end-to-end architecture</li>
+                    <li>Led the optimization team, focusing on deploying and fine-tuning regional language LLMs using Triton for all India consortium as a part
+of Government of India initiative.</li>
 - title: Machine Learning Engineer, Quantiphi Inc
   from: July 2020
-  to: Present
+  to: December 2023
   description: <ul><li>Provide ML and AI solutions to client and working on in-house research projects </li>
                <li>Designed and developed anomaly detection system to detect anomalous user behaviour leading to 60% reduction in manual effort</li>
                <li>Developed background replacement segmentation model with shadow for showroom leading to 30% improvement in user engagement. </li>
