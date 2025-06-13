@@ -10,7 +10,7 @@ weight: 6
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I currently work as a Applied AI Researcher at Bhashini@Product Labs IIITH. Most of my work is related to NLP, Quantum Computing, Reinforcement learning. <br>
 
-Want to know more about me or hire me then download resume [here](https://github.com/dummy3014/dummy3014.github.io/blob/main/assests/jank_resume.pdf) :smiley: <br>
+Want to know more about me or hire me then download resume [here](https://github.com/dummy3014/dummy3014.github.io/blob/main/assests/Resume.pdf) :smiley: <br>
 
 # **Work-Experience**
 <div class="row">
